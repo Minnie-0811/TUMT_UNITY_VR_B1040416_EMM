@@ -1,9 +1,8 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/USER/Desktop/VR遊戲_B1040416/VR遊戲.exe
+C:/Users/User/Desktop/TUMT_UNITY_VR_B1040416_EMM/VR/VR.exe
 SceneListBegin?
-Assets/Scenes/SampleScene.unity
-Assets/vr場景.unity
+Assets/vr.unity
 SceneListEnd?
 bb2dc810ac8614dec49a546caf3453df SteamVR.dll:Valve.VR.SteamVR_Ears
 a3e7a9cafca0709ee40f15d86c0fbc15 SteamVR.dll:Valve.VR.InteractionSystem.LinearAnimation
@@ -147,6 +146,7 @@ a2c607626ca7a2ebcb333c465bf53fe8 SteamVR.dll:Valve.VR.SteamVR_Behaviour_Vector2
 b09df194fdaa99ba37956ee3e8d06e9e SteamVR.dll:Valve.VR.InteractionSystem.Sample.RenderModelChangerUI
 74f04ff68d6c9ddaa627ef8e5ba870ce SteamVR.dll:Valve.VR.SteamVR_Behaviour_SkeletonCustom
 afa1ee0fddfd3b40f101bc90a3ab75f7 SteamVR.dll:Valve.VR.InteractionSystem.Sample.Grenade
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.腳本
 deb7e86f439c23f504d1b733033e9427 SteamVR.dll:Valve.VR.InteractionSystem.Player
 1068f107315c7227083f2b97d831ff90 SteamVR.dll:Valve.VR.InteractionSystem.HandCollider
 486cd95c82d8305219c352c06b776e1f SteamVR.dll:Valve.VR.InteractionSystem.Sample.FlowerPlanted
@@ -282,6 +282,7 @@ a561f27e4a0389fedd6869a9235a56fb SteamVR.dll:Valve.VR.InteractionSystem.Circular
 9318334b30e9f195f573b2ce00154b95 Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 8e719b43938db0c8b07b5bd722f4b059 SteamVR.dll:Valve.VR.InteractionSystem.Arrow
 f4e62ca70a6760ae8e13ba631a1ff28f SteamVR.dll:Valve.VR.InteractionSystem.FallbackCameraController
+df8174801ccfe97d89d8a1873d4a8d03 Assembly-CSharp.dll:.傳送們腳本
 c6beac0bd168b197b70b046b44c710dc SteamVR.dll:Valve.VR.InteractionSystem.BalloonHapticBump
 200169b4a768f29a41b22fa87b3fe54e SteamVR.dll:Valve.VR.InteractionSystem.Sample.TargetMeasurement
 d7566e28c6199751772fc2a160808136 SteamVR.dll:Valve.VR.InteractionSystem.VelocityEstimator
@@ -292,5 +293,3 @@ d7566e28c6199751772fc2a160808136 SteamVR.dll:Valve.VR.InteractionSystem.Velocity
 3cb155b9dfc1163a0d75a2f13b9cf71c SteamVR.dll:Valve.VR.InteractionSystem.LinearDrive
 ed2d483a453c5b94a7e0a50162a716cc SteamVR.dll:Valve.VR.SteamVR_Camera
 ff31c283a9bf38dce2fa1cc6c94fe6ba SteamVR.dll:Valve.VR.InteractionSystem.HoverButton
-486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.腳本
-df8174801ccfe97d89d8a1873d4a8d03 Assembly-CSharp.dll:.傳送們腳本
